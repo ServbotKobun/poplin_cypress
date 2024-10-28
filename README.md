@@ -7,8 +7,6 @@ This project uses Cypress for end-to-end testing of a web application. Cypress i
 **Clone the repository:**
 
 ```javascript
-**bash**
-
 git clone [https://github.com/your-username/cypress-automation-project.git](https://github.com/ServbotKobun/poplin_cypress)
 ```
 
