@@ -7,7 +7,7 @@ This project uses Cypress for end-to-end testing of a web application. Cypress i
 **Clone the repository:**
 
 ```javascript
-git clone [https://github.com/your-username/cypress-automation-project.git](https://github.com/ServbotKobun/poplin_cypress)
+git clone https://github.com/ServbotKobun/poplin_cypress
 ```
 
 Navigate to the project directory:
@@ -79,3 +79,9 @@ npx cypress open
 ```javascript
 npx cypress run
 ```
+
+**Documentation**
+
+[Test Cases](https://docs.google.com/spreadsheets/d/16B9DuZvifyfV5tvlySHCMKVqlu22sNBcTIQoTS6fSvw/edit?usp=sharing)
+
+[Bugs](https://docs.google.com/document/d/1BxsgjqEEykWLyVTJEkYQMI85dkiBBdG5Jvsnuo6k0To/edit?usp=sharing)
