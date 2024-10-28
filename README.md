@@ -15,28 +15,20 @@ git clone [https://github.com/your-username/cypress-automation-project.git](http
 Navigate to the project directory:
 
 ```javascript
-**bash**
-
 cd cypress-automation-project
-Install dependencies:
+
 ```
-
+**Install dependencies:**
 ```javascript
-**bash**
-
 npm install
 ```
 
 **Extensions used:**
 
 ```javascript
-**bash**
-cypress/
-├── fixtures/         # Test data for your tests 
-├── downloads/        # Downloaded files if required
-├── pages/            # Selectors holders
-├── support/          # Setups and Global configurations
-└── e2e/tests         # Test cases location
+
+# cypress-xpath
+# cypress-iframe
 ```
 
 
@@ -52,28 +44,24 @@ This project uses Cypress for end-to-end testing of a web application. Cypress i
 **Clone the repository:**
 
 ```javascript
-**bash**
 git clone https://github.com/your-username/cypress-automation-project.git
 ```
 
 **Navigate to the project directory:**
 
 ```javascript
-**bash**
 cd cypress-automation-project
 
 ```
 **Install dependencies:**
 
 ```javascript
-**bash**
 npm install
 ```
 
 **Folder Structure**
 
 ```javascript
-**bash**
 cypress/
 ├── fixtures/          # Test data for your tests
 ├── integration/       # Test specifications
@@ -85,13 +73,11 @@ cypress/
 To run tests in the Cypress Test Runner, use the following command:
 
 ```javascript
-**bash**
 npx cypress open
 ```
 
 **To run tests in headless mode, use:**
 
 ```javascript
-**bash**
 npx cypress run
 ```
